@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: main
+    branch: autopilot
   url: https://github.com/Daklon/microservices-demo.git
